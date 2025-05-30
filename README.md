@@ -13,4 +13,3 @@ o Pengguna memasukkan nama, kategori minat buku, dan jumlah buku rekomendasi.
 o Membandingkan minat pengguna dengan kategori buku yang ada.
 o Menampilkan daftar rekomendasi buku sesuai kategori sebanyak input jumlah buku rekomendasi.
 o Memberikan opsi untuk mencari lagi atau keluar dari sistem.
-
